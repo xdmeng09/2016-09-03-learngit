@@ -19,3 +19,6 @@ My stupid boss still prefers SVN.
 
 Creating a new branch is quick.
                 Added at 21:45:30,Date:2017-05-08
+
+Creating a new branch is quick AND simple.
+                Added at 22:55:30,Date:2017-05-08
