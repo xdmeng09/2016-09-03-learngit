@@ -18,4 +18,9 @@ My stupid boss still prefers SVN.
 
 
 Creating a new branch is quick.
-                Added at 21:45:30,Date:2017-05-08
+
+                 Added at 21:45:30,Date:2017-05-08
+
+I have made some modification in this readme20170507.txt, ha ha!
+
+                 Added at 19:15:30,Date:2017-05-09
