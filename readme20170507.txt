@@ -24,3 +24,5 @@ Creating a new branch is quick.
 I have made some modification in this readme20170507.txt, ha ha!
 
                  Added at 19:15:30,Date:2017-05-09
+
+Adam learning "Fast forward"!!, added at 20:12:30,Date:2017-05-09
