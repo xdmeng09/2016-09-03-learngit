@@ -4,7 +4,7 @@ Git is free software.
 then, for learning git  I add following
 
 Git is a distributed version control system.
-Git is free software.
+Git is a free software.
 
 ---add again as followings
 Git is a distributed version control system.
